@@ -19,4 +19,11 @@ Personally I disagree with at least 90% of what Fist stated in that rebalancemen
 
 * Zenith content was pushed far to the end of the GR, Zenith 1 starts now at GR600, Zenith 2 is now GR700, Zenith 3 is now GR800 and Zenith 4 is now GR900. Don't need to rush to this content, personally it lacks a lot to be really worth it, sure it is nice to play and all but it's just not enough and you should go and play the GR and enjoy the other 160 monsters of the game instead of just 24.
 
+## A slightly preview:
+
+
+https://user-images.githubusercontent.com/68492734/157886782-8a193711-be47-4a3e-81da-a03f9ce8ddcb.mp4
+
+
+
 ## Too tired, need rest, not thinking straight anymore...
