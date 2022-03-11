@@ -28,6 +28,9 @@ https://user-images.githubusercontent.com/68492734/157886782-8a193711-be47-4a3e-
 
 ## Last notes...
 This is shared of free will and everything, anyone can have these files and use them how they see fit.
+
 Most of you might not even want this for any reason and all, so this shouldn't be forced onto people either.
+
 This may be only for, perhaps crazy, people like me that likes it this way.
+
 Lastly how everyone play is not my fault, people that want to cheat, skip or something like that will always do that no matter which game or whatever, if you are going to do this then simply don't use this patch, but for those that will use it, I hope they enjoy "some" of the original system content as much as I do.
