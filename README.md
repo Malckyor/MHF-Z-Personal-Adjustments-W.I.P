@@ -27,7 +27,7 @@ https://user-images.githubusercontent.com/68492734/157886782-8a193711-be47-4a3e-
 
 
 ## Last notes...
-This is shared of free will and everything, anyone can have these files and use them how they see fit.
+This is shared of free will and all the work here was done by myself alone, anyone can have these files and use them how they see fit.
 
 Most of you might not even want this for any reason and all, so this shouldn't be forced onto people either.
 
