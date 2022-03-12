@@ -9,7 +9,7 @@ Personally I disagree with at least 90% of what Fist stated in that rebalancemen
 
 ## Now that I justified the above I'll tell everything about this:
 
-* No cheat, no, never, don't even complain!
+* No cheat, just no, never, don't even complain!
 
 * The most time consuming work here is the armour's upgrade system, I've been working for the last weeks to revert them back, of course this is not finished and I'll be working more on those, unless... For now rest assured that I did all the "normal", Goushu and Exotic armours, aside from the Exotic and 2 Goushu monsters the rest are all the original upgrades from a previous version and I even might need to work on that, if you find anything wrong with those just tell me, it takes so long doing this alone and it's worse not having any tool to work with this, but whatever.
 
