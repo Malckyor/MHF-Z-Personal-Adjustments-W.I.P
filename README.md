@@ -31,8 +31,7 @@ I saw the other day Fist and others talking about this and I don't want any dram
 
 * Fistly I want to say that I have used Fist's mhfemd.bin file from the **public** version he officialy shared, this file as he stated are the unnerfed monsters statuses before the ZZ updates, it was in a link called eng.fist.moe, this is the last update and, again, **public** and not **stolen** from anyone! This version has the "cheat shop" and as you can see in the files name and data of the last time modified, you can see that it's the original and I got it by that time. If he didn't have done something about the webarchive you could still get it from there since someone made backups of those, I checked it a couple months ago.
 
-![patch](https://user-images.githubusercontent.com/68492734/159828680-f7d842a4-978d-4f1c-a682-6cd194e5ce73.png)
-![eng patch](https://user-images.githubusercontent.com/68492734/159838926-701cb031-cd0e-40a7-a796-cf3c10d1b99a.png)
+![patch](https://user-images.githubusercontent.com/68492734/159828680-f7d842a4-978d-4f1c-a682-6cd194e5ce73.png) ![eng patch](https://user-images.githubusercontent.com/68492734/159838926-701cb031-cd0e-40a7-a796-cf3c10d1b99a.png)
 
 
 * Secondly I used the mhfdat.bin file shared by MaiLBG to release the ENG version for anyone that wants it since Fist released (as far as I've found) only the "cheat shop" version, since I wanted to share it for non-JP readers as well and it didn't have the "cheat shop" and didn't have whatever the heck was that has in Fist's file for not being able to read all Road's Shop. It's a rebalanced work mostly for the armours upgrades, why would I release it with a cheat file? It makes no sense, right?
