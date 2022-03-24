@@ -11,7 +11,7 @@ Personally I disagree with at least 90% of what Fist stated in that rebalancemen
 
 * No cheat, just no, never, don't even complain!
 
-* The most time consuming work here is the armour's upgrade system, I've been working for the last weeks to revert them back, of course this is not finished and I'll be working more on those, unless... For now rest assured that I did all the "normal", Goushu and Exotic armours, aside from the Exotic and 2 Goushu monsters the rest are all the original upgrades from a previous version and I even might need to work on that, if you find anything wrong with those just tell me, it takes so long doing this alone and it's worse not having any tool to work with this, but whatever.
+* The most time consuming work here is the armour's upgrade system, I've been working for the last weeks to revert them back, of course this is not finished and I'll be working more on those, unless... For now rest assured that I did all the "normal", Goushu and Exotic armours, aside from the Exotic and 2 Goushu monsters the rest are all the original upgrades from a previous version and I even might need to work on that, if you find anything wrong with those just tell me, it takes so long doing this alone and it's worse not having any tool to work with this, but whatever. Also this file does not contains anything related to key quests or about the old armour upgrade system!
 
 * More key quests were added to the quest list. The intention behind this is to try to make everybody enjoy a bit more of the HR which was the main content of this game for so many years, there are a lot of content there but if you play it like it was left you'll simply skip it like it was nothing.
 
