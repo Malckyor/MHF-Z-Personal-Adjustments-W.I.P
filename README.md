@@ -3,6 +3,7 @@ This is just some personal adjustments I'm doing to MHF-Z by myself for some per
 
 ## Known Bugs
 For now if you start a new character with this version (or perhaps have these files before reaching GR) and if you remove it and return back to the vanilla files the Urgent Quest will not trigger, don't know why though. So avoid doing that.
+
 Note: MAEL reported that if you swap back to vanilla you'll have to clear the key quests again to reset the key quest counter and unlock the urgent quest, so try it out.
 
 ## Why are you doing this?
