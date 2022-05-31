@@ -2,9 +2,7 @@
 This is just some personal adjustments I'm doing to MHF-Z by myself for some personal reasons. So this is just a patch that I see necessary for myself and of course is just a W.I.P. that I might end up not finishing if some criteria that I'm thinking meet it. I also am aware of my own skills so I won't give anyone hope about anything. As said, this is some personal work mainly for myself and I know that some people might be interested and then I'm sharing this.
 
 ## Known Bugs
-For now if you start a new character with this version (or perhaps have these files before reaching GR) and if you remove it and return back to the vanilla files the Urgent Quest will not trigger, don't know why though. So avoid doing that.
-
-Note: MAEL reported that if you swap back to vanilla you'll have to clear the key quests again to reset the key quest counter and unlock the urgent quest, so try it out.
+**Urgent Quest won't trigger**: If you already have a character when you change for these files, the key quest progression will be lost and you'll need to manually reset this, even changing to vanilla's file won't clear it and the urgent quest won't trigger. To do so, make use of the cool manager Chakratos made, there is a function to reset the key quest flag there: https://github.com/Chakratos/mhf-save-manager/releases
 
 ## Why are you doing this?
 Simply because I want, it hurts so much in my soul to play the game like it was. A lot of content is simply skipped, this is not the same game I started back in 2011. Plus I'm determined enough to do this and improve it way more than this!
