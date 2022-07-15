@@ -1,8 +1,6 @@
 # MHF-Z-Personal-Adjustments-W.I.P.
 This is just some personal adjustments I'm doing to MHF-Z by myself for some personal reasons. So this is just a patch that I see necessary for myself and of course is just a W.I.P. that I might end up not finishing if some criteria that I'm thinking meet it. I also am aware of my own skills so I won't give anyone hope about anything. As said, this is some personal work mainly for myself and I know that some people might be interested and then I'm sharing this.
 
-**Note**: This is outdated for now, use the merged version released in the PewPewDojo Discord's group: https://discord.gg/CFnzbhQ
-
 ## Known Bugs
 **Urgent Quest won't trigger**: If you already have a character when you change for these files, the key quest progression will be lost and you'll need to manually reset this, even changing to vanilla's file won't clear it and the urgent quest won't trigger. To do so, make use of the cool manager Chakratos made, there is a function to reset the key quest flag there: https://github.com/Chakratos/mhf-save-manager/releases
 
